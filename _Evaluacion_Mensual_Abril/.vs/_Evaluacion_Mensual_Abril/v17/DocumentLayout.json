@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|c:\\users\\josep\\onedrive\\documentos\\digitalgeko\\dojonet\\jos\u00E9peralta\\_evaluacion_mensual_abril\\_evaluacion_mensual_abril\\controllers\\fakestore\\fsproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|solutionrelative:_evaluacion_mensual_abril\\controllers\\fakestore\\fsproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|c:\\users\\josep\\onedrive\\documentos\\digitalgeko\\dojonet\\jos\u00E9peralta\\_evaluacion_mensual_abril\\_evaluacion_mensual_abril\\services\\fakestore\\fsproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|solutionrelative:_evaluacion_mensual_abril\\services\\fakestore\\fsproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|c:\\users\\josep\\onedrive\\documentos\\digitalgeko\\dojonet\\jos\u00E9peralta\\_evaluacion_mensual_abril\\_evaluacion_mensual_abril\\views\\fakestore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|solutionrelative:_evaluacion_mensual_abril\\views\\fakestore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|c:\\users\\josep\\onedrive\\documentos\\digitalgeko\\dojonet\\jos\u00E9peralta\\_evaluacion_mensual_abril\\_evaluacion_mensual_abril\\controllers\\tempconvert\\tpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|solutionrelative:_evaluacion_mensual_abril\\controllers\\tempconvert\\tpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|c:\\users\\josep\\onedrive\\documentos\\digitalgeko\\dojonet\\jos\u00E9peralta\\_evaluacion_mensual_abril\\_evaluacion_mensual_abril\\views\\fakestore\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|solutionrelative:_evaluacion_mensual_abril\\views\\fakestore\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|c:\\users\\josep\\onedrive\\documentos\\digitalgeko\\dojonet\\jos\u00E9peralta\\_evaluacion_mensual_abril\\_evaluacion_mensual_abril\\controllers\\binnacle\\binnaclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|solutionrelative:_evaluacion_mensual_abril\\controllers\\binnacle\\binnaclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|c:\\users\\josep\\onedrive\\documentos\\digitalgeko\\dojonet\\jos\u00E9peralta\\_evaluacion_mensual_abril\\_evaluacion_mensual_abril\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|solutionrelative:_evaluacion_mensual_abril\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|c:\\users\\josep\\onedrive\\documentos\\digitalgeko\\dojonet\\jos\u00E9peralta\\_evaluacion_mensual_abril\\_evaluacion_mensual_abril\\views\\tempconvert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|solutionrelative:_evaluacion_mensual_abril\\views\\tempconvert\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|c:\\users\\josep\\onedrive\\documentos\\digitalgeko\\dojonet\\jos\u00E9peralta\\_evaluacion_mensual_abril\\_evaluacion_mensual_abril\\services\\tempconvert\\tpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|solutionrelative:_evaluacion_mensual_abril\\services\\tempconvert\\tpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|c:\\users\\josep\\onedrive\\documentos\\digitalgeko\\dojonet\\jos\u00E9peralta\\_evaluacion_mensual_abril\\_evaluacion_mensual_abril\\views\\binnacle\\binnacle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97194BD3-FD83-4C56-AB32-276E53E6DC7B}|_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj|solutionrelative:_evaluacion_mensual_abril\\views\\binnacle\\binnacle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,107 +30,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FSProductService.cs",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Services\\FakeStore\\FSProductService.cs",
-              "RelativeDocumentMoniker": "_Evaluacion_Mensual_Abril\\Services\\FakeStore\\FSProductService.cs",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Services\\FakeStore\\FSProductService.cs",
-              "RelativeToolTip": "_Evaluacion_Mensual_Abril\\Services\\FakeStore\\FSProductService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAqwD0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T14:19:59.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TPController.cs",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Controllers\\TempConvert\\TPController.cs",
-              "RelativeDocumentMoniker": "_Evaluacion_Mensual_Abril\\Controllers\\TempConvert\\TPController.cs",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Controllers\\TempConvert\\TPController.cs",
-              "RelativeToolTip": "_Evaluacion_Mensual_Abril\\Controllers\\TempConvert\\TPController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T14:02:30.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Views\\FakeStore\\Index.cshtml",
-              "RelativeDocumentMoniker": "_Evaluacion_Mensual_Abril\\Views\\FakeStore\\Index.cshtml",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Views\\FakeStore\\Index.cshtml",
-              "RelativeToolTip": "_Evaluacion_Mensual_Abril\\Views\\FakeStore\\Index.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T14:00:44.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Views\\FakeStore\\Update.cshtml",
-              "RelativeDocumentMoniker": "_Evaluacion_Mensual_Abril\\Views\\FakeStore\\Update.cshtml",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Views\\FakeStore\\Update.cshtml",
-              "RelativeToolTip": "_Evaluacion_Mensual_Abril\\Views\\FakeStore\\Update.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T13:59:51.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FSProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Controllers\\FakeStore\\FSProductsController.cs",
-              "RelativeDocumentMoniker": "_Evaluacion_Mensual_Abril\\Controllers\\FakeStore\\FSProductsController.cs",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Controllers\\FakeStore\\FSProductsController.cs",
-              "RelativeToolTip": "_Evaluacion_Mensual_Abril\\Controllers\\FakeStore\\FSProductsController.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAA3wK4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T13:58:02.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BinnacleController.cs",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Controllers\\Binnacle\\BinnacleController.cs",
-              "RelativeDocumentMoniker": "_Evaluacion_Mensual_Abril\\Controllers\\Binnacle\\BinnacleController.cs",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Controllers\\Binnacle\\BinnacleController.cs",
-              "RelativeToolTip": "_Evaluacion_Mensual_Abril\\Controllers\\Binnacle\\BinnacleController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwE0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T13:32:24.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Views\\TempConvert\\Index.cshtml",
               "RelativeDocumentMoniker": "_Evaluacion_Mensual_Abril\\Views\\TempConvert\\Index.cshtml",
               "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Views\\TempConvert\\Index.cshtml",
               "RelativeToolTip": "_Evaluacion_Mensual_Abril\\Views\\TempConvert\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T12:51:12.143Z",
+              "WhenOpened": "2025-04-30T20:18:25.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "_Evaluacion_Mensual_Abril\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "_Evaluacion_Mensual_Abril\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TPService.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Services\\TempConvert\\TPService.cs",
+              "RelativeDocumentMoniker": "_Evaluacion_Mensual_Abril\\Services\\TempConvert\\TPService.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Services\\TempConvert\\TPService.cs",
+              "RelativeToolTip": "_Evaluacion_Mensual_Abril\\Services\\TempConvert\\TPService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:17:30.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Binnacle.cshtml",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Views\\Binnacle\\Binnacle.cshtml",
+              "RelativeDocumentMoniker": "_Evaluacion_Mensual_Abril\\Views\\Binnacle\\Binnacle.cshtml",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\DojoNet\\Jos\u00E9Peralta\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril\\Views\\Binnacle\\Binnacle.cshtml",
+              "RelativeToolTip": "_Evaluacion_Mensual_Abril\\Views\\Binnacle\\Binnacle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T12:51:09.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T19:53:09.786Z"
             }
           ]
         }
