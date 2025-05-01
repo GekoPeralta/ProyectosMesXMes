@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6s+9fkj9D1s=",
+  "dgSpecHash": "ytYJUlA9veI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\ProyectosMesAMes\\ProyectosMesXMes\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj",
+  "projectFilePath": "C:\\Users\\josep\\OneDrive\\Documentos\\DigitalGeko\\ProyectosMesAMes\\Abril\\_Evaluacion_Mensual_Abril\\_Evaluacion_Mensual_Abril.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.objectpool\\6.0.16\\microsoft.extensions.objectpool.6.0.16.nupkg.sha512",

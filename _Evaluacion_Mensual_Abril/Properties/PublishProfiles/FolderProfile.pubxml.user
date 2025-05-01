@@ -2,8 +2,8 @@
 <!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\josep\OneDrive\Documentos\DigitalGeko\ProyectosMesAMes\ProyectosMesXMes\_Evaluacion_Mensual_Abril\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2025-04-30T23:48:36.2611142Z||;True|2025-04-30T15:49:21.6478755-06:00||;True|2025-04-30T15:38:41.8398082-06:00||;</History>
+    <_PublishTargetUrl>C:\Users\josep\OneDrive\Documentos\DigitalGeko\ProyectosMesAMes\Abril\_Evaluacion_Mensual_Abril\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-05-01T00:52:06.1156494Z||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
