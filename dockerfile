@@ -1,21 +1,20 @@
-# Etapa de construcción
+# Etapa de build
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
-# Copiar archivos del proyecto
-COPY *.csproj ./
+# Copiar el archivo .csproj
+COPY _Evaluacion_Mensual_Abril/_Evaluacion_Mensual_Abril.csproj ./_Evaluacion_Mensual_Abril/
+WORKDIR /app/_Evaluacion_Mensual_Abril
 RUN dotnet restore
 
-# Copiar el resto de archivos y compilar
-COPY . ./
-RUN dotnet publish -c Release -o out
+# Copiar el resto del proyecto
+COPY _Evaluacion_Mensual_Abril/. ./
+RUN dotnet publish -c Release -o /app/out
 
-# Etapa de ejecución
-FROM mcr.microsoft.com/dotnet/aspnet:8.0
+# Etapa de runtime
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
-COPY --from=build /app/out .
-
+COPY --from=build /app/out ./
 ENV ASPNETCORE_URLS=http://+:8080
 EXPOSE 8080
-
 ENTRYPOINT ["dotnet", "_Evaluacion_Mensual_Abril.dll"]
